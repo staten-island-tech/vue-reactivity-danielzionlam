@@ -30,6 +30,7 @@ export default {
   methods: {
     addItemToCart(piece) {
       this.cart.push(piece);
+      console.log(this.cart);
     },
     removeItemFromCart(piece) {
       this.cart.splice(this.cart.indexOf(piece));

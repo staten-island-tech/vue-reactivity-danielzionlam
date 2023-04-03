@@ -7,7 +7,7 @@
           <h3>{{ piece.name }}</h3>
           <h4>{{ piece.cost }}</h4>
           <img :src="piece.image" />
-          <button v-on:click="addItemToCart">Add to Cart</button>
+          <button v-on:click="addItemToCart(piece)">Add to Cart</button>
         </div>
       </div>
     </div>
