@@ -124,7 +124,7 @@ export default {
           name: "CLB",
           cost: "$50000",
           image:
-            "https://people.com/thmb/zNT1GoL9JROSIyWpi0zOgk04Ph8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(599x569:601x571)/drake-1-c6e5d427dd9c40499a7a07e911fc7b9a.jpg",
+            "https://www.rap-up.com/wp-content/uploads/2022/04/yk-osiris-clb-haircut.jpg",
         },
         {
           name: "Cheeto",
